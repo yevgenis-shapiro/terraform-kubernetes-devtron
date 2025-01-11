@@ -7,6 +7,7 @@ Devtron is a Web-Based CI/CD Platform for Kubernetes Clusters. It integrates var
 
 Application Delivery lifecycle by leveraging advanced features like canary deployments, A/B testing, and automated rollbacks. Devtron Platform helps you achieve faster time-to-market and improved application reliability by simplifying Kubernetes operations and streamlining development workflow
 
+
 🎯 Features
 ```
 ✅ Simplified configuration and management for Helm applications with easy rollback
