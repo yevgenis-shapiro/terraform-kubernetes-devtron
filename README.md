@@ -3,7 +3,8 @@
 
 
 ## Terraform Module - Devtron | Kubernetes
-Devtron is a Web-Based CI/CD Platform for Kubernetes Clusters. It integrates various cloud-native tools to provide a modular CI/CD platform that also includes Security Scanning, GitOps, Access Control, and Observability . Accelerating operations by up to 20x 🚀 .
+Devtron is a Web-Based CI/CD Platform for Kubernetes Clusters. It integrates various cloud-native tools to provide a modular CI/CD platform that also includes Security Scanning, GitOps, Access Control, and Observability . Accelerating operations by up to 20x 🚀
+
 Application Delivery lifecycle by leveraging advanced features like canary deployments, A/B testing, and automated rollbacks. Devtron Platform helps you achieve faster time-to-market and improved application reliability by simplifying Kubernetes operations and streamlining development workflow
 
 🎯 Features
