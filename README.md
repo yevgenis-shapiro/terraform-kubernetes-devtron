@@ -1,3 +1,5 @@
+<img width="4096" alt="devtron-feat-glance" src="https://github.com/user-attachments/assets/02d525bd-29b1-4870-acd8-224fb57e545b" />
+
 ![devtron](https://github.com/user-attachments/assets/e42bc630-9e02-4885-b53f-4dbfe28791f5)
 
 
