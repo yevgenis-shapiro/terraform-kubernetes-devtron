@@ -7,12 +7,22 @@ Devtron is a Web-Based CI/CD Platform for Kubernetes. It integrates various clou
 
 🎯 Features
 ```
+✅ Simplified configuration and management for Helm applications with easy rollback
+✅ Compare and reconcile configuration drifts across enviornments
+✅ Manage Helm deployments to multiple Kubernetes enviornments
+✅ A single pane of glass for Helm, ArgoCD and FluxCD applications across multiple clusters
+✅ Centralized Dashboard to view and manage K8s resources across multiple clusters
+✅ Comprehensive SSO and RBAC to ensure secure dashboard access for team collaboration
+```
+
+## Complements :
+```
 ✅ UI Dashboard
 ✅ Release Orchestration
 ✅ Continuous Deployment with GitOps
 ✅ Devtron Platform
-
 ```
+
 
 🔨 Example : Config
 
