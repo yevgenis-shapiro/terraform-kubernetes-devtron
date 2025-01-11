@@ -20,10 +20,10 @@ Application Delivery lifecycle by leveraging advanced features like canary deplo
 
 ### Complements :
 ```
-🌱 UI Dashboard
-🌱 Release Orchestration
-🌱 Continuous Deployment with GitOps
-🌱 Devtron Platform
+⭐️ UI Dashboard
+⭐️ Release Orchestration
+⭐️ Continuous Deployment with GitOps
+⭐️ Devtron Platform
 ```
 
 
