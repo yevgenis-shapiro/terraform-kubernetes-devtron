@@ -25,7 +25,7 @@ Devtron is a Web-Based CI/CD Platform for Kubernetes Clusters. It integrates var
 ```
 
 
-### Integration :
+🔨 Integration :
 ```
 ✅ Build and Deploy (CI/CD) 
 ✅ GitOps (Argo CD) 
@@ -35,7 +35,3 @@ Devtron is a Web-Based CI/CD Platform for Kubernetes Clusters. It integrates var
 ✅ Monitoring (Grafana) 
 ```
 
-🔨 Example : Config
-
-```
-```
