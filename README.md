@@ -1,4 +1,5 @@
-![devtron](https://github.com/user-attachments/assets/d41da499-822e-4b7f-b3b6-0c70d110c6cc)
+![devtron](https://github.com/user-attachments/assets/e42bc630-9e02-4885-b53f-4dbfe28791f5)
+
 
 
 ## Terraform Module - Devtron | Kubernetes
